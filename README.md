@@ -12,7 +12,7 @@ This Python script checks the availability of a given list of endpoints (URLs) a
 ##### Prerequisites
 Ensure to  have Python installed and also needs the **requests** library:
 
-``
+```
 pip install requests
 
-``
+```
